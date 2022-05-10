@@ -1,0 +1,5 @@
+Chinese,6.62
+Japanese,112.91
+European,0.85
+UK,0.76
+Hong Kong,7.81
