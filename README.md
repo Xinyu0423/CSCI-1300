@@ -8,7 +8,8 @@ Fall 2017
 A
 
 ## Note for This Class
-1. 
+1. Homework 7 is the hardest assignment for this class and usually takes a long time, so it's best to do it early.
+2. After homework 7, the latter part is usually much easier.
 
 ## Note
 1. This repo is for me to store my work for this class. So please **DO NOT** use it for plagiarism. Professors usually change some content of the assignment. Thus if you check out my work, please just have it for inspiration. Again, **DO NOT** use it for plagiarism.
